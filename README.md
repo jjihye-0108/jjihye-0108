@@ -127,7 +127,7 @@ Java Swing 기반 버스 노선 정보 조회 시스템
 `HTML` `CSS` `JavaScript`
 `Python Flask`
 `Firebase`
-`Git/GitHub` :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+`Git/GitHub`
 
 ---
 
