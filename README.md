@@ -112,7 +112,7 @@ Java Swing 기반 버스 노선 정보 조회 시스템
 - 리뷰 전체 조회 페이지 UI 구현
 - HTML/CSS 기반 레이아웃 설계
 - 사용자 친화적 인터페이스 구성
-- 팀 프로젝트 Git 협업 및 PR 기반 개발 프로세스 참여 :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+- 팀 프로젝트 Git 협업 및 PR 기반 개발 프로세스 참여
 
 #### 주요 기능
 - 상품 등록 및 조회
